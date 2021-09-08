@@ -1,0 +1,6 @@
+.DS_Store
+src/.DS_Store
+*/.venv
+*/.idea
+.idea
+.venv
