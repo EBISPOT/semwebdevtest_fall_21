@@ -1,6 +1,5 @@
 .DS_Store
 src/.DS_Store
-*/.venv
+venv
 */.idea
 .idea
-.venv
